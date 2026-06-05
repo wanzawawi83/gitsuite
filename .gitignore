@@ -1,30 +1,26 @@
 
-# EPF (Eggplant Functional)
-
-# Results and logs (MAIN ISSUE)
+# Ignore ALL Results folders anywhere
 Results/
 **/Results/
 
-# Search objects (if you want to ignore)
-SearchObjects/
-**/SearchObjects/
+# Ignore timestamp
+*.timestamp
 
-# Other EPF folders
+# Ignore EPF runtime folders
 Sessions/
 TableScripts/
 Features/
 
-# Temporary files
-*.timestamp
-*.tmp
-*.lock
-
 # Backup files
 *.orig
 
-# System files
+# System
 .DS_Store
 Thumbs.db
 
 # EPF internal
 .vam/
+**/.vam/
+
+.vamignore
+**/.vamignore

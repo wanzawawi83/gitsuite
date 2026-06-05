@@ -1,0 +1,100 @@
+{
+  "lastmodifieddate" : 1767073324.72205,
+  "testlocationdata" : [
+    {
+      "name" : "chromeicon.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin10",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[37,29]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.149",
+      "capturerect" : [
+        1062,
+        422,
+        50,
+        50
+      ]
+    },
+    {
+      "name" : "chromeicon.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "VMwin10",
+      "connectionportnum" : 58471,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[29,21]",
+        "CropRectangle" : "[8,8,42,42]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.149",
+      "capturerect" : [
+        1062,
+        422,
+        34,
+        34
+      ]
+    },
+    {
+      "connectionserverid" : "10.244.8.149",
+      "sutinfo" : {
+        "Type" : "RDP",
+        "epgw_path" : "\/Applications\/Eggplant.app\/Contents\/Resources\/epgw\/x64\/bin\/epgw"
+      },
+      "connectionname" : "win10",
+      "connectionportnum" : 57902,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "o",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : 45,
+        "HotSpot" : "[24,16]",
+        "CropRectangle" : "[13,13,37,37]"
+      },
+      "type" : 1,
+      "name" : "chromeicon.png",
+      "capturerect" : [
+        1062,
+        422,
+        24,
+        24
+      ]
+    }
+  ],
+  "createddate" : 1731047313.6873879,
+  "lastfoundlocation" : [
+    495,
+    411,
+    24,
+    24
+  ],
+  "originalcapturelocation" : [
+    1062,
+    422,
+    50,
+    50
+  ],
+  "lastfounddate" : 1769154287.4181221,
+  "name" : "chromeicon"
+}
