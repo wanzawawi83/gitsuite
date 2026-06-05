@@ -1,0 +1,30 @@
+
+# EPF (Eggplant Functional)
+
+# Results and logs (MAIN ISSUE)
+Results/
+**/Results/
+
+# Search objects (if you want to ignore)
+SearchObjects/
+**/SearchObjects/
+
+# Other EPF folders
+Sessions/
+TableScripts/
+Features/
+
+# Temporary files
+*.timestamp
+*.tmp
+*.lock
+
+# Backup files
+*.orig
+
+# System files
+.DS_Store
+Thumbs.db
+
+# EPF internal
+.vam/

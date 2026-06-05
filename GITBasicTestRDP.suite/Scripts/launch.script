@@ -1,0 +1,4 @@
+﻿connect "win10"
+wait 10
+DoubleClick {Image:"chromeicon", WaitFor:5}
+
